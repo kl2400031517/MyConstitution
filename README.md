@@ -1,6 +1,6 @@
-# Know Your Constitution
+# Know Your Constitution (MyConstitution)
 
-A comprehensive React-based web application designed to educate citizens about the Indian Constitution through interactive learning, discussions, and expert guidance.
+A comprehensive React-based web application designed to educate citizens about the Indian Constitution through interactive learning, discussions, and expert guidance. This digital platform simplifies the Indian Constitution, making it accessible to all with interactive modules, quizzes, expert insights, and community discussions.
 
 ## Features
 
@@ -57,8 +57,8 @@ A comprehensive React-based web application designed to educate citizens about t
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd know-your-constitution
+git clone https://github.com/kl2400031517/MyConstitution.git
+cd MyConstitution
 ```
 
 2. Install dependencies:
